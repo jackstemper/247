@@ -1,0 +1,11 @@
+/**
+ * 
+ */
+
+/**
+ * @author Jack
+ *
+ */
+public interface MoveBehavior {
+	public String move();
+}
